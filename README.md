@@ -1,9 +1,9 @@
 # Enumeration
 
 
-# Explore Google hacking and enumeration 
+## Explore Google hacking and enumeration 
 
-# AIM:
+## AIM:
 
 To use Google for gathering information and perform enumeration of targets
 
@@ -73,3 +73,5 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ## nmap –script smtp-enum-users.nse <hostname>
 ![image](https://github.com/Priya-Loganathan/Enumeration/assets/121166075/f635c9d6-2802-4dfd-a523-712e99e410af)
 
+## RESULT:
+The Google hacking keywords and enumeration tools were identified and executed successfully.
